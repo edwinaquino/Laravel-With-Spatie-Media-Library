@@ -3,7 +3,7 @@
 This Laravel Application contains Spatie Media Library package for managing Media files such as images.
 
 ## ScreenShot
-![Laravel-With-Spatie-Media-Library-CRUD](https://github.com/edwinaquino/Laravel-With-Spatie-Media-Library-CRUD/assets/30946443/5042d6de-4d3b-45e7-8f90-28716862c223)
+![Laravel-With-Spatie-Media-Library-CRUD](https://github.com/edwinaquino/Laravel-With-Spatie-Media-Library/assets/30946443/4c41af69-d9f6-4d4a-87f3-78f214653bb0)
 
 
 ## Installation
